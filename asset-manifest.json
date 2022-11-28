@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exm3/static/css/main.4ab45bde.css",
+    "main.js": "/exm3/static/js/main.304f6841.js",
+    "index.html": "/exm3/index.html",
+    "main.4ab45bde.css.map": "/exm3/static/css/main.4ab45bde.css.map",
+    "main.304f6841.js.map": "/exm3/static/js/main.304f6841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab45bde.css",
+    "static/js/main.304f6841.js"
+  ]
+}
